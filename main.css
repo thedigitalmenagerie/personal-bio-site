@@ -1,0 +1,9 @@
+body {
+  background-color: whitesmoke;
+}
+
+#projectsPage {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
